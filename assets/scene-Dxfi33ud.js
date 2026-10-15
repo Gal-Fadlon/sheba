@@ -1,4 +1,4 @@
-import{s as tc}from"./index-DsM1YIyF.js";/**
+import{s as tc}from"./index-DWZB3SqG.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
